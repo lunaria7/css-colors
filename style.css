@@ -1,0 +1,770 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@100;200;300;400;500;600;700;900&family=Space+Mono:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+                 /*NAV*/
+nav {
+    width: fit-content;
+    height: 100%;
+    top: 0;
+    position: fixed;
+    z-index: 1;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    list-style: none;
+    overflow: hidden;
+}
+
+nav a {
+    padding: 12px;
+    margin: 6px;
+    display: block;
+    font-family: 'Azeret Mono', monospace;
+    color: white;
+    text-align: center;
+}
+
+.leftbar{
+    position: fixed;
+    width: 20%;
+    height: auto;
+    position: absolute;
+    padding-top: 20px;
+}
+
+a:link, a:visited {
+    text-decoration: none; 
+    color: white;
+}
+
+a:hover, a:active {
+    text-decoration: none;
+    background-color: yellow;
+    color: black;
+}
+
+                /*nav end*/
+
+            /*header start*/ 
+h1 {
+    font-family: 'Space Mono', monospace;
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    letter-spacing: 20px;
+    background-color: black;
+    color: white;
+}
+
+            /*header end*/
+
+            /*footer start*/
+footer {
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    background-color: black;
+    color: yellow;
+    position: fixed;
+    bottom: 0px; 
+    width: 100%;
+    font-size: 12px;
+}
+            /*footer end*/
+
+
+            /*Table properties*/
+
+h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-family: 'Space Mono', monospace;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 15px;
+    letter-spacing: 10px;
+}
+
+table {
+    top:auto;
+    table-layout: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    width: 800px;
+    border-spacing: 4px;
+}
+
+tr {
+    display: table-row;
+}               
+
+td {
+    padding: 4px;
+    font-family: 'Azeret Mono', monospace;  
+}
+
+tr.COLORTEXT {
+    text-align: left;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-break: break-all;
+}
+
+tr.HEX {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 10px;
+    letter-spacing: 1px;
+}
+
+tr.DECIMAL {
+    text-align: left;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 10px;
+    letter-spacing: 1px;
+}
+        /*Table properties end*/
+
+
+                /*RED COLORS*/
+.color1 {
+    background-color: indianred;
+    padding: 20px;
+}
+.color2 {
+    background-color: lightcoral;
+    padding: 20px;
+}
+.color3 {
+    background-color: salmon;
+    padding: 20px;
+}
+.color4 {
+    background-color: darksalmon;
+    padding: 20px;
+}
+.color5 {
+    background-color: lightsalmon;
+    padding: 20px;
+}
+.color6 {
+    background-color: crimson;
+    padding: 20px;
+}
+.color7 {
+    background-color: red;
+    padding: 20px;
+}
+.color8 {
+    background-color: firebrick;
+    padding: 20px;
+}
+.color9 {
+    background-color: darkred;
+    padding: 20px;
+}
+
+
+
+            /*PINKS COLORS*/
+
+.color10 {
+    background-color: pink;
+    padding: 20px;
+}
+.color11 {
+    background-color: lightpink;
+    padding: 20px;
+}
+.color12 {
+    background-color: hotpink;
+    padding: 20px;
+}
+.color13 {
+    background-color: deeppink;
+    padding: 20px;
+}
+.color14 {
+    background-color: mediumvioletred;
+    padding: 20px;
+}
+.color15 {
+    background-color: palevioletred;
+    padding: 20px;
+}
+
+
+
+            /*ORANGES COLORS*/
+
+.color16 {
+    background-color: coral;
+    padding: 20px;
+}
+.color17 {
+    background-color: tomato;
+    padding: 20px;
+}
+.color18 {
+    background-color: orangered;
+    padding: 20px;
+}
+.color19 {
+    background-color: darkorange;
+    padding: 20px;
+}
+.color20 {
+    background-color: orange;
+    padding: 20px;
+}
+
+
+
+            /*YELLOWS COLORS*/
+
+.color21 {
+    background-color: gold;
+    padding: 20px;
+}
+.color22 {
+    background-color: yellow;
+    padding: 20px;
+}
+.color23 {
+    background-color: lightyellow;
+    padding: 20px;
+}
+.color24 {
+    background-color: lemonchiffon;
+    padding: 20px;
+}
+.color25 {
+    background-color: lightgoldenrodyellow;
+    padding: 20px;
+}
+.color26 {
+    background-color: papayawhip;
+    padding: 20px;
+}
+.color27 {
+    background-color: moccasin;
+    padding: 20px;
+}
+.color28 {
+    background-color: peachpuff;
+    padding: 20px;
+}
+.color29 {
+    background-color: palegoldenrod;
+    padding: 20px;
+}
+.color30 {
+    background-color: khaki;
+    padding: 20px;
+}
+.color31 {
+    background-color: darkkhaki;
+    padding: 20px;
+}
+
+
+
+            /*PURPLES COLORS*/
+.color32 {
+    background-color: lavender;
+    padding: 20px;
+}
+.color33 {
+    background-color: thistle;
+    padding: 20px;
+}
+.color34 {
+    background-color: plum;
+    padding: 20px;
+}
+.color35 {
+    background-color: violet;
+    padding: 20px;
+}
+.color36 {
+    background-color: orchid;
+    padding: 20px;
+}
+.color37 {
+    background-color: fuchsia;
+    padding: 20px;
+}
+.color38 {
+    background-color: magenta;
+    padding: 20px;
+}
+.color39 {
+    background-color: mediumorchid;
+    padding: 20px;
+}
+.color40 {
+    background-color: mediumpurple;
+    padding: 20px;
+}
+.color41 {
+    background-color: blueviolet;
+    padding: 20px;
+}
+.color42 {
+    background-color: darkviolet;
+    padding: 20px;
+}
+.color43 {
+    background-color: darkorchid;
+    padding: 20px;
+}
+.color44 {
+    background-color: darkmagenta;
+    padding: 20px;
+}
+.color45 {
+    background-color: purple;
+    padding: 20px;
+}
+.color46 {
+    background-color: rebeccapurple;
+    padding: 20px;
+}
+.color47 {
+    background-color: indigo;
+    padding: 20px;
+}
+.color48 {
+    background-color: mediumslateblue;
+    padding: 20px;
+}
+.color49 {
+    background-color: slateblue;
+    padding: 20px;
+}
+.color50 {
+    background-color: darkslateblue;
+    padding: 20px;
+}
+
+
+
+            /*GREENS COLORS*/
+.color51 {
+    background-color: greenyellow;
+    padding: 20px;
+}
+.color52 {
+    background-color: chartreuse;
+    padding: 20px;
+}
+.color53 {
+    background-color: lawngreen;
+    padding: 20px;
+}
+.color54 {
+    background-color: lime;
+    padding: 20px;
+}
+.color55 {
+    background-color: limegreen;
+    padding: 20px;
+}
+.color56 {
+    background-color: palegreen;
+    padding: 20px;
+}
+.color57 {
+    background-color: lightgreen;
+    padding: 20px;
+}
+.color58 {
+    background-color: mediumspringgreen;
+    padding: 20px;
+}
+.color59 {
+    background-color: springgreen;
+    padding: 20px;
+}
+.color60 {
+    background-color: mediumseagreen;
+    padding: 20px;
+}
+.color61 {
+    background-color: seagreen;
+    padding: 20px;
+}
+.color62 {
+    background-color: forestgreen;
+    padding: 20px;
+}
+.color63 {
+    background-color: green;
+    padding: 20px;
+}
+.color64 {
+    background-color: darkgreen;
+    padding: 20px;
+}
+.color65 {
+    background-color: yellowgreen;
+    padding: 20px;
+}
+.color66 {
+    background-color: olivedrab;
+    padding: 20px;
+}
+.color67 {
+    background-color: olive;
+    padding: 20px;
+}
+.color68 {
+    background-color: darkolivegreen;
+    padding: 20px;
+}
+.color69 {
+    background-color: mediumaquamarine;
+    padding: 20px;
+}
+.color70 {
+    background-color: darkseagreen;
+    padding: 20px;
+}
+.color71 {
+    background-color: lightseagreen;
+    padding: 20px;
+}
+.color72 {
+    background-color: darkcyan;
+    padding: 20px;
+}
+.color73 {
+    background-color: teal;
+    padding: 20px;
+}
+
+
+
+            /*BLUES COLORS*/
+.color74 {
+    background-color: aqua;
+    padding: 20px;
+}
+.color75 {
+    background-color: cyan;
+    padding: 20px;
+}
+.color76 {
+    background-color: lightcyan;
+    padding: 20px;
+}
+.color77 {
+    background-color: paleturquoise;
+    padding: 20px;
+}
+.color78 {
+    background-color: aquamarine;
+    padding: 20px;
+}
+.color79 {
+    background-color: turquoise;
+    padding: 20px;
+}
+.color80 {
+    background-color: mediumturquoise;
+    padding: 20px;
+}
+.color81 {
+    background-color: darkturquoise;
+    padding: 20px;
+}
+.color82 {
+    background-color: cadetblue;
+    padding: 20px;
+}
+.color83 {
+    background-color: steelblue;
+    padding: 20px;
+}
+.color84 {
+    background-color: lightsteelblue;
+    padding: 20px;
+}
+.color85 {
+    background-color: powderblue;
+    padding: 20px;
+}
+.color86 {
+    background-color: lightblue;
+    padding: 20px;
+}
+.color87 {
+    background-color: skyblue;
+    padding: 20px;
+}
+.color88 {
+    background-color: lightskyblue;
+    padding: 20px;
+}
+.color89 {
+    background-color: deepskyblue;
+    padding: 20px;
+}
+.color90 {
+    background-color: dodgerblue;
+    padding: 20px;
+}
+.color91 {
+    background-color: cornflowerblue;
+    padding: 20px;
+}
+.color92 {
+    background-color: royalblue;
+    padding: 20px;
+}
+.color93 {
+    background-color: blue;
+    padding: 20px;
+}
+.color94 {
+    background-color: mediumblue;
+    padding: 20px;
+}
+.color95 {
+    background-color: darkblue;
+    padding: 20px;
+}
+.color96 {
+    background-color: navy;
+    padding: 20px;
+}
+.color97 {
+    background-color: midnightblue;
+    padding: 20px;
+}
+
+
+
+
+            /*BROWNS COLORS*/
+.color98 {
+    background-color: cornsilk;
+    padding: 20px;
+}
+.color99 {
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+.color100 {
+    background-color: bisque;
+    padding: 20px;
+}
+.color101 {
+    background-color: navajowhite;
+    padding: 20px;
+}
+.color102 {
+    background-color: wheat;
+    padding: 20px;
+}
+.color103 {
+    background-color: burlywood;
+    padding: 20px;
+}
+.color104 {
+    background-color: tan;
+    padding: 20px;
+}
+.color105 {
+    background-color: rosybrown;
+    padding: 20px;
+}
+.color106 {
+    background-color: sandybrown;
+    padding: 20px;
+}
+.color107 {
+    background-color: goldenrod;
+    padding: 20px;
+}
+.color108 {
+    background-color: darkgoldenrod;
+    padding: 20px;
+}
+.color109 {
+    background-color: peru;
+    padding: 20px;
+}
+.color110 {
+    background-color: chocolate;
+    padding: 20px;
+}
+.color111 {
+    background-color: saddlebrown;
+    padding: 20px;
+}
+.color112 {
+    background-color: sienna;
+    padding: 20px;
+}
+.color113 {
+    background-color: brown;
+    padding: 20px;
+}
+.color114 {
+    background-color: maroon;
+    padding: 20px;
+}
+
+
+            /*WHITES COLORS*/
+.color115 {
+    background-color: white;
+    padding: 20px;
+}
+.color116 {
+    background-color: snow;
+    padding: 20px;
+}
+.color117 {
+    background-color: honeydew;
+    padding: 20px;
+}
+.color118 {
+    background-color: mintcream;
+    padding: 20px;
+}
+.color119 {
+    background-color: azure;
+    padding: 20px;
+}
+.color120 {
+    background-color: aliceblue;
+    padding: 20px;
+}
+.color121 {
+    background-color: ghostwhite;
+    padding: 20px;
+}
+.color122 {
+    background-color: whitesmoke;
+    padding: 20px;
+}
+.color123 {
+    background-color: seashell;
+    padding: 20px;
+}
+.color124 {
+    background-color: beige;
+    padding: 20px;
+}
+.color125 {
+    background-color: oldlace;
+    padding: 20px;
+}
+.color126 {
+    background-color: floralwhite;
+    padding: 20px;
+}
+.color127 {
+    background-color: ivory;
+    padding: 20px;
+}
+.color128 {
+    background-color: antiquewhite;
+    padding: 20px;
+}
+.color129 {
+    background-color: linen;
+    padding: 20px;
+}
+.color130 {
+    background-color: lavenderblush;
+    padding: 20px;
+}
+.color131 {
+    background-color: mistyrose;
+    padding: 20px;
+}
+
+
+
+            /*GREYS COLORS*/
+
+.color132 {
+    background-color: gainsboro;
+    padding: 20px;
+}
+.color133 {
+    background-color: lightgray;
+    padding: 20px;
+}
+.color134 {
+    background-color: lightgrey;
+    padding: 20px;
+}
+.color135 {
+    background-color: silver;
+    padding: 20px;
+}
+.color136 {
+    background-color: darkgray;
+    padding: 20px;
+}
+.color137 {
+    background-color: darkgrey;
+    padding: 20px;
+}
+.color138 {
+    background-color: gray;
+    padding: 20px;
+}
+.color139 {
+    background-color: grey;
+    padding: 20px;
+}
+.color140 {
+    background-color: dimgray;
+    padding: 20px;
+}
+.color141 {
+    background-color: dimgrey;
+    padding: 20px;
+}
+.color142 {
+    background-color: lightslategray;
+    padding: 20px;
+}
+.color143 {
+    background-color: lightslategrey;
+    padding: 20px;
+}
+.color144 {
+    background-color: slategray;
+    padding: 20px;
+}
+.color145 {
+    background-color: slategrey;
+    padding: 20px;
+}
+.color146 {
+    background-color: darkslategray;
+    padding: 20px;
+}
+.color147 {
+    background-color: darkslategrey;
+    padding: 20px;
+}
+.color148 {
+    background-color: black;
+    padding: 20px;
+}
