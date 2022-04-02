@@ -1,0 +1,1241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Colors</title>
+    <link rel="stylesheet" href="./resources/style.css" type="text/css">
+    
+</head>
+<body>
+                 <!--side-nav bar-->
+    <div class="leftbar">
+        <nav>
+            <a href="#reds-link">REDS</a>
+            <a href="#pinks-link">PINKS</a>
+            <a href="#oranges-link">ORANGES</a>
+            <a href="#yellows-link">YELLOWS</a>
+            <a href="#purples-link">PURPLES</a>
+            <a href="#greens-link">GREENS</a>
+            <a href="#blues-link">BLUES</a>
+            <a href="#browns-link">BROWNS</a>
+            <a href="#whites-link">WHITES</a>
+            <a href="#greys-link">GREYS</a> 
+        </nav>
+    </div>
+   
+                    <!-- end nav -->
+                  
+                    <!--HEADER START-->
+             
+    <header>
+        <h1>CSS COLORS CHEATSHEET</h1>
+    </header>
+                    <!--HEADER END-->
+
+                    <!--MAIN START-->
+    <main>
+                        <!--REDS START-->
+        <table>
+            <thead>
+                <a id="reds-link"><h2>REDS</h2></a>
+                <th colspan="4">&nbsp;</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="color1">&nbsp;</td>
+                    <td class="color2">&nbsp;</td>
+                    <td class="color3">&nbsp;</td>
+                    <td class="color4">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>IndianRed</td>
+                    <td>LightCoral</td>
+                    <td>Salmon</td>
+                    <td>DarkSalmon</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> CD5C5C</td>
+                    <td><strong>HEX</strong> F08080</td>
+                    <td><strong>HEX</strong> FA8072</td>
+                    <td><strong>HEX</strong> E9967A</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong>  205,92,92</td>
+                    <td><strong>RGB</strong>  240,128,128</td>
+                    <td><strong>RGB</strong>  250,128,114</td>
+                    <td><strong>RGB</strong>  233,150,122</td>
+                </tr>
+
+                <tr>
+                    <td class="color5">&nbsp;</td>
+                    <td class="color6">&nbsp;</td>
+                    <td class="color7">&nbsp;</td>
+                    <td class="color8">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>LightSalmon</td>
+                    <td>Crimson</td>
+                    <td>Red</td>
+                    <td>FireBrick</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FFA07A</td>
+                    <td><strong>HEX</strong> DC143C</td>
+                    <td><strong>HEX</strong> FF0000</td>
+                    <td><strong>HEX</strong> B22222</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong>  255,160,122</td>
+                    <td><strong>RGB</strong>  220,20,60</td>
+                    <td><strong>RGB</strong>  255,0,0</td>
+                    <td><strong>RGB</strong>  178,34,34</td>
+                </tr>
+
+                <tr>
+                    <td class="color9">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>DarkRed</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 8B0000</td>
+                </tr>
+                
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong>  139,0,0</td>
+                </tr>
+            </tbody>
+        </table>
+                        <!--REDS END-->
+
+                    <!--PINKS START-->
+        <table>
+            <thead>
+                <a id="pinks-link"><h2>PINKS</h2></a>
+                <th colspan="4">&nbsp;</th>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="color10">&nbsp;</td>
+                    <td class="color11">&nbsp;</td>
+                    <td class="color12">&nbsp;</td>
+                    <td class="color13">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Pink</td>
+                    <td>LightPink</td>
+                    <td>HotPink</td>
+                    <td>DeepPink</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FFC0CB</td>
+                    <td><strong>HEX</strong> FFB6C1</td>
+                    <td><strong>HEX</strong> FF69B4</td>
+                    <td><strong>HEX</strong> FF1493</td>
+                </tr>
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 255,192,203</td>
+                    <td><strong>RGB</strong> 255,182,193</td>
+                    <td><strong>RGB</strong> 255,105,180</td>
+                    <td><strong>RGB</strong> 255,20,147</td>
+                </tr>
+
+                <tr> <td class="color14">&nbsp;</td>
+                    <td class="color15">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>MediumVioletRed</td>
+                    <td>PaleVioletRed</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> C71585</td>
+                    <td><strong>HEX</strong> DB7093</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 199,21,133</td>
+                    <td><strong>RGB</strong> 219,112,147</td>
+                </tr>
+            </tbody>
+        </table>
+                        <!--PINKS END-->
+
+                        <!--ORANGES START-->
+    <table>
+        <thead>
+            <a id="oranges-link"><h2>ORANGES</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color16">&nbsp;</td>
+                    <td class="color17">&nbsp;</td>
+                    <td class="color18">&nbsp;</td>
+                    <td class="color19">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Coral</td>
+                    <td>Tomato</td>
+                    <td>OrangeRed</td>
+                    <td>DarkOrange</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FF7F50</td>
+                    <td><strong>HEX</strong> FF6347</td>
+                    <td><strong>HEX</strong> FF4500</td>
+                    <td><strong>HEX</strong> FF8C00</td>
+                </tr>
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 255,127,80</td>
+                    <td><strong>RGB</strong> 255,99,71</td>
+                    <td><strong>RGB</strong> 255,69,0</td>
+                    <td><strong>RGB</strong> 255,140,0</td>
+                </tr>
+
+                <tr>
+                    <td class="color20">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Orange</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FFA500</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 255,165,0</td>
+                </tr>
+
+            </tbody>
+        </table>
+                        <!--ORANGES END-->
+
+                        <!--YELLOWS START-->
+    <table>
+        <thead>
+            <a id="yellows-link"><h2>YELLOWS</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color21">&nbsp;</td>
+                    <td class="color22">&nbsp;</td>
+                    <td class="color23">&nbsp;</td>
+                    <td class="color24">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Gold</td>
+                    <td>Yellow</td>
+                    <td>LightYellow</td>
+                    <td>LemonChiffon</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FFD700</td>
+                    <td><strong>HEX</strong> FFFF00</td>
+                    <td><strong>HEX</strong> FFFFE0</td>
+                    <td><strong>HEX</strong> FFFACD</td>
+                </tr>
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 255,215,0</td>
+                    <td><strong>RGB</strong> 255,255,0</td>
+                    <td><strong>RGB</strong> 255,255,224</td>
+                    <td><strong>RGB</strong> 255,250,205</td>
+                </tr>
+
+                <tr>
+                    <td class="color25">&nbsp;</td>
+                    <td class="color26">&nbsp;</td>
+                    <td class="color27">&nbsp;</td>
+                    <td class="color28">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>LightGoldenrodYellow</td>
+                    <td>PapayaWhip</td>
+                    <td>Moccasin</td>
+                    <td>PeachPuff</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FAFAD2</td>
+                    <td><strong>HEX</strong> FFEFD5</td>
+                    <td><strong>HEX</strong> FFE4B5</td>
+                    <td><strong>HEX</strong> FFDAB9</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 250,250,210</td>
+                    <td><strong>RGB</strong> 255,239,213</td>
+                    <td><strong>RGB</strong> 255,228,181</td>
+                    <td><strong>RGB</strong> 255,218,185</td>
+                </tr>
+
+                <tr>
+                    <td class="color29">&nbsp;</td>
+                    <td class="color30">&nbsp;</td>
+                    <td class="color31">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>PaleGoldenrod</td>
+                    <td>Khaki</td>
+                    <td>DarkKhaki</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> EEE8AA</td>
+                    <td><strong>HEX</strong> F0E68C</td>
+                    <td><strong>HEX</strong> BDB76B</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 238,232,170</td>
+                    <td><strong>RGB</strong> 240,230,140</td>
+                    <td><strong>RGB</strong> 189,183,107</td>
+                </tr>
+
+            </tbody>
+        </table>
+                           <!--YELLOWS END-->
+
+
+                        <!--PURPLES START-->
+    <table>
+        <thead>
+            <a id="purples-link"><h2>PURPLES</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color32">&nbsp;</td>
+                    <td class="color33">&nbsp;</td>
+                    <td class="color34">&nbsp;</td>
+                    <td class="color35">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Lavender</td>
+                    <td>Thistle</td>
+                    <td>Plum</td>
+                    <td>Violet</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> E6E6FA</td>
+                    <td><strong>HEX</strong> D8BFD8</td>
+                    <td><strong>HEX</strong> DDA0DD</td>
+                    <td><strong>HEX</strong> EE82EE</td>
+                </tr>
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 230,230,250</td>
+                    <td><strong>RGB</strong> 216,191,216</td>
+                    <td><strong>RGB</strong> 221,160,221</td>
+                    <td><strong>RGB</strong> 238,130,238</td>
+                </tr>
+
+                <tr>
+                    <td class="color36">&nbsp;</td>
+                    <td class="color37">&nbsp;</td>
+                    <td class="color38">&nbsp;</td>
+                    <td class="color39">&nbsp;</td>
+                </tr>
+                <tr class="COLORTEXT">
+                    <td>Orchid</td>
+                    <td>Fuchsia</td>
+                    <td>Magenta</td>
+                    <td>MediumOrchid</td>
+                </tr>
+                <tr class="HEX">
+                    <td><strong>HEX</strong> DA70D6</td>
+                    <td><strong>HEX</strong> FF00FF</td>
+                    <td><strong>HEX</strong> FF00FF</td>
+                    <td><strong>HEX</strong> BA55D3</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 218,112,214</td>
+                    <td><strong>RGB</strong> 255,0,255</td>
+                    <td><strong>RGB</strong> 255,0,255</td>
+                    <td><strong>RGB</strong> 186,85,211</td>
+                </tr>
+
+                <tr>
+                    <td class="color40">&nbsp;</td>
+                    <td class="color41">&nbsp;</td>
+                    <td class="color42">&nbsp;</td>
+                    <td class="color43">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>MediumPurple</td>
+                    <td>BlueViolet</td>
+                    <td>DarkViolet</td>
+                    <td>DarkOrchid</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 9370DB</td>
+                    <td><strong>HEX</strong> 8A2BE2</td>
+                    <td><strong>HEX</strong> 9400D3</td>
+                    <td><strong>HEX</strong> 9932CC</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 147,112,219</td>
+                    <td><strong>RGB</strong> 138,43,226</td>
+                    <td><strong>RGB</strong> 148,0,211</td>
+                    <td><strong>RGB</strong> 153,50,204</td>
+                </tr>
+
+                <tr>
+                    <td class="color44">&nbsp;</td>
+                    <td class="color45">&nbsp;</td>
+                    <td class="color46">&nbsp;</td>
+                    <td class="color47">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>DarkMagenta</td>
+                    <td>Purple</td>
+                    <td>RebeccaPurple</td>
+                    <td>Indigo</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 8B008B</td>
+                    <td><strong>HEX</strong> 800080</td>
+                    <td><strong>HEX</strong> 663399</td>
+                    <td><strong>HEX</strong> 4B0082</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 139,0,139</td>
+                    <td><strong>RGB</strong> 128,0,128</td>
+                    <td><strong>RGB</strong> 102,51,153</td>
+                    <td><strong>RGB</strong> 75,0,130</td>
+                </tr>
+
+                <tr>
+                    <td class="color48">&nbsp;</td>
+                    <td class="color49">&nbsp;</td>
+                    <td class="color50">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>MediumSlateBlue</td>
+                    <td>SlateBlue</td>
+                    <td>DarkSlateBlue</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 7B68EE</td>
+                    <td><strong>HEX</strong> 6A5ACD</td>
+                    <td><strong>HEX</strong> 483D8B</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 123,104,238</td>
+                    <td><strong>RGB</strong> 106,90,205</td>
+                    <td><strong>RGB</strong> 72,61,139</td>
+                </tr>
+            </tbody>
+        </table>
+                        <!--PURPLES END-->
+
+                        <!--GREENS START-->
+    <table>
+        <thead>
+            <a id="greens-link"><h2>GREENS</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color51">&nbsp;</td>
+                    <td class="color52">&nbsp;</td>
+                    <td class="color53">&nbsp;</td>
+                    <td class="color54">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>GreenYellow</td>
+                    <td>Chartreuse</td>
+                    <td>LawnGreen</td>
+                    <td>Lime</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> ADFF2F</td>
+                    <td><strong>HEX</strong> 7FFF00</td>
+                    <td><strong>HEX</strong> 7CFC00</td>
+                    <td><strong>HEX</strong> 00FF00</td>
+                </tr>
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 173,255,47</td>
+                    <td><strong>RGB</strong> 127,255,0</td>
+                    <td><strong>RGB</strong> 124,252,0</td>
+                    <td><strong>RGB</strong> 0,255,0</td>
+                </tr>
+
+                <tr>
+                    <td class="color55">&nbsp;</td>
+                    <td class="color56">&nbsp;</td>
+                    <td class="color57">&nbsp;</td>
+                    <td class="color58">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>LimeGreen</td>
+                    <td>PaleGreen</td>
+                    <td>LightGreen</td>
+                    <td>MediumSpringGreen</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 32CD32</td>
+                    <td><strong>HEX</strong> 98FB98</td>
+                    <td><strong>HEX</strong> 90EE90</td>
+                    <td><strong>HEX</strong> 00FA9A</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 50,205,50</td>
+                    <td><strong>RGB</strong> 152,251,152</td>
+                    <td><strong>RGB</strong> 144,238,144</td>
+                    <td><strong>RGB</strong> 0,250,154</td>
+                </tr>
+
+                <tr>
+                    <td class="color59">&nbsp;</td>
+                    <td class="color60">&nbsp;</td>
+                    <td class="color61">&nbsp;</td>
+                    <td class="color62">&nbsp;</td>
+                </tr>
+                
+                <tr class="COLORTEXT">
+                    <td>SpringGreen</td>
+                    <td>MediumSeaGreen</td>
+                    <td>SeaGreen</td>
+                    <td>ForestGreen</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 00FF7F</td>
+                    <td><strong>HEX</strong> 3CB371</td>
+                    <td><strong>HEX</strong> 2E8B57</td>
+                    <td><strong>HEX</strong> 228B22</td>
+                </tr>
+                
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 0,255,127</td>
+                    <td><strong>RGB</strong> 60,179,113</td>
+                    <td><strong>RGB</strong> 46,139,87</td>
+                    <td><strong>RGB</strong> 34,139,34</td>
+                </tr>
+
+                <tr>
+                    <td class="color63">&nbsp;</td>
+                    <td class="color64">&nbsp;</td>
+                    <td class="color65">&nbsp;</td>
+                    <td class="color66">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Green</td>
+                    <td>DarkGreen</td>
+                    <td>YellowGreen</td>
+                    <td>OliveDrab</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 008000</td>
+                    <td><strong>HEX</strong> 006400</td>
+                    <td><strong>HEX</strong> 9ACD32</td>
+                    <td><strong>HEX</strong> 6B8E23</td>
+                </tr>
+                
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 0,128,0</td>
+                    <td><strong>RGB</strong> 0,100,0</td>
+                    <td><strong>RGB</strong> 154,205,50</td>
+                    <td><strong>RGB</strong> 107,142,35</td>
+                </tr>
+
+                <tr>
+                    <td class="color67">&nbsp;</td>
+                    <td class="color68">&nbsp;</td>
+                    <td class="color69">&nbsp;</td>
+                    <td class="color70">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Olive</td>
+                    <td>DarkOliveGreen</td>
+                    <td>MediumAquamarine</td>
+                    <td>DarkSeaGreen</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 808000</td>
+                    <td><strong>HEX</strong> 556B2F</td>
+                    <td><strong>HEX</strong> 66CDAA</td>
+                    <td><strong>HEX</strong> 8FBC8F</td>                
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 128,128,0</td>
+                    <td><strong>RGB</strong> 85,107,47</td>
+                    <td><strong>RGB</strong> 102,205,170</td>
+                    <td><strong>RGB</strong> 143,188,143</td>
+                </tr>
+
+                <tr>
+                    <td class="color71">&nbsp;</td>
+                    <td class="color72">&nbsp;</td>
+                    <td class="color73">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>LightSeaGreen</td>
+                    <td>DarkCyan</td>
+                    <td>Teal</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 20B2AA</td>
+                    <td><strong>HEX</strong> 008B8B</td>
+                    <td><strong>HEX</strong> 008080</td>
+                </tr>
+                
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 32,178,170</td>
+                    <td><strong>RGB</strong> 0,139,139</td>
+                    <td><strong>RGB</strong> 0,128,128</td>
+                </tr>
+            </tbody>
+        </table>
+                        <!--GREENS END-->
+
+                        <!--BLUES START-->
+    <table>
+        <thead>
+            <a id="blues-link"><h2>BLUES</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color74">&nbsp;</td>
+                    <td class="color75">&nbsp;</td>
+                    <td class="color76">&nbsp;</td>
+                    <td class="color77">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Aqua</td>
+                    <td>Cyan</td>
+                    <td>LightCyan</td>
+                    <td>PaleTurquoise</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 00FFFF</td>
+                    <td><strong>HEX</strong> 00FFFF</td>
+                    <td><strong>HEX</strong> E0FFFF</td>
+                    <td><strong>HEX</strong> AFEEEE</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 0,255,255</td>
+                    <td><strong>RGB</strong> 0,255,255</td>
+                    <td><strong>RGB</strong> 224,255,255</td>
+                    <td><strong>RGB</strong> 175,238,238</td>
+                </tr>
+                
+                <tr>
+                    <td class="color78">&nbsp;</td>
+                    <td class="color79">&nbsp;</td>
+                    <td class="color80">&nbsp;</td>
+                    <td class="color81">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Aquamarine</td>
+                    <td>Turquoise</td>
+                    <td>MediumTurquoise</td>
+                    <td>DarkTurquoise</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 7FFFD4</td>
+                    <td><strong>HEX</strong> 40E0D0</td>
+                    <td><strong>HEX</strong> 48D1CC</td>
+                    <td><strong>HEX</strong> 00CED1</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 127,255,212</td>
+                    <td><strong>RGB</strong> 64,224,208</td>
+                    <td><strong>RGB</strong> 72,209,204</td>
+                    <td><strong>RGB</strong> 0,206,209</td>
+                </tr>
+
+                <tr>
+                    <td class="color82">&nbsp;</td>
+                    <td class="color83">&nbsp;</td>
+                    <td class="color84">&nbsp;</td>
+                    <td class="color85">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>CadetBlue</td>
+                    <td>SteelBlue</td>
+                    <td>LightSteelBlue</td>
+                    <td>PowderBlue</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 5F9EA0</td>
+                    <td><strong>HEX</strong> 4682B4</td>
+                    <td><strong>HEX</strong> B0C4DE</td>
+                    <td><strong>HEX</strong> B0E0E6</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 95,158,160</td>
+                    <td><strong>RGB</strong> 70,130,180</td>
+                    <td><strong>RGB</strong> 176,196,222</td>
+                    <td><strong>RGB</strong> 176,224,230</td>
+                </tr>
+
+                <tr>
+                    <td class="color86">&nbsp;</td>
+                    <td class="color87">&nbsp;</td>
+                    <td class="color88">&nbsp;</td>
+                    <td class="color89">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>LightBlue</td>
+                    <td>SkyBlue</td>
+                    <td>LightSkyBlue</td>
+                    <td>DeepSkyBlue</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> ADD8E6</td>
+                    <td><strong>HEX</strong> 87CEEB</td>
+                    <td><strong>HEX</strong> 87CEFA</td>
+                    <td><strong>HEX</strong> 00BFFF</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 173,216,230</td>
+                    <td><strong>RGB</strong> 135,206,235</td>
+                    <td><strong>RGB</strong> 135,206,250</td>
+                    <td><strong>RGB</strong> 0,191,255</td>
+                </tr>
+
+                <tr>
+                    <td class="color90">&nbsp;</td>
+                    <td class="color91">&nbsp;</td>
+                    <td class="color92">&nbsp;</td>
+                    <td class="color93">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>DodgerBlue</td>
+                    <td>CornflowerBlue</td>
+                    <td>RoyalBlue</td>
+                    <td>Blue</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 1E90FF</td>
+                    <td><strong>HEX</strong> 6495ED</td>
+                    <td><strong>HEX</strong> 4169E1</td>
+                    <td><strong>HEX</strong> 0000FF</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 30,144,255</td>
+                    <td><strong>RGB</strong> 100,149,237</td>
+                    <td><strong>RGB</strong> 65,105,225</td>
+                    <td><strong>RGB</strong> 0,0,255</td>
+                </tr>
+
+                <tr>
+                    <td class="color94">&nbsp;</td>
+                    <td class="color95">&nbsp;</td>
+                    <td class="color96">&nbsp;</td>
+                    <td class="color97">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>MediumBlue</td>
+                    <td>DarkBlue</td>
+                    <td>Navy</td>
+                    <td>MidnightBlue</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 0000CD</td>
+                    <td><strong>HEX</strong> 00008B</td>
+                    <td><strong>HEX</strong> 000080</td>
+                    <td><strong>HEX</strong> 191970</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 0,0,205</td>
+                    <td><strong>RGB</strong> 0,0,139</td>
+                    <td><strong>RGB</strong> 0,0,128</td>
+                    <td><strong>RGB</strong> 25,25,112</td>
+                </tr>
+            </tbody>
+        </table>
+                            <!--BLUES END-->
+    
+                        <!--BROWNS START-->
+    <table>
+        <thead>
+            <a id="browns-link"><h2>BROWNS</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color98">&nbsp;</td>
+                    <td class="color99">&nbsp;</td>
+                    <td class="color100">&nbsp;</td>
+                    <td class="color101">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Cornsilk</td>
+                    <td>BlanchedAlmond</td>
+                    <td>Bisque</td>
+                    <td>NavajoWhite</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FFF8DC</td>
+                    <td><strong>HEX</strong> FFEBCD</td>
+                    <td><strong>HEX</strong> FFE4C4</td>
+                    <td><strong>HEX</strong> FFDEAD</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 255,248,220</td>
+                    <td><strong>RGB</strong> 255,235,205</td>
+                    <td><strong>RGB</strong> 255,228,196</td>
+                    <td><strong>RGB</strong> 255,222,173</td>
+                </tr>
+
+                <tr>
+                    <td class="color102">&nbsp;</td>
+                    <td class="color103">&nbsp;</td>
+                    <td class="color104">&nbsp;</td>
+                    <td class="color105">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Wheat</td>
+                    <td>BurlyWood</td>
+                    <td>Tan</td>
+                    <td>RosyBrown</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> F5DEB3</td>
+                    <td><strong>HEX</strong> DEB887</td>
+                    <td><strong>HEX</strong> D2B48C</td>
+                    <td><strong>HEX</strong> BC8F8F</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 245,222,179</td>
+                    <td><strong>RGB</strong> 222,184,135</td>
+                    <td><strong>RGB</strong> 210,180,140</td>
+                    <td><strong>RGB</strong> 188,143,143</td>
+                </tr>
+
+                <tr>
+                    <td class="color106">&nbsp;</td>
+                    <td class="color107">&nbsp;</td>
+                    <td class="color108">&nbsp;</td>
+                    <td class="color109">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>SandyBrown</td>
+                    <td>Goldenrod</td>
+                    <td>DarkGoldenrod</td>
+                    <td>Peru</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> F4A460</td>
+                    <td><strong>HEX</strong> DAA520</td>
+                    <td><strong>HEX</strong> B8860B</td>
+                    <td><strong>HEX</strong> CD853F</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 244,164,96</td>
+                    <td><strong>RGB</strong> 218,165,32</td>
+                    <td><strong>RGB</strong> 184,134,11</td>
+                    <td><strong>RGB</strong> 205,133,63</td>
+                </tr>
+
+                <tr>
+                    <td class="color110">&nbsp;</td>
+                    <td class="color111">&nbsp;</td>
+                    <td class="color112">&nbsp;</td>
+                    <td class="color113">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Chocolate</td>
+                    <td>SaddleBrown</td>
+                    <td>Sienna</td>
+                    <td>Brown</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> D2691E</td>
+                    <td><strong>HEX</strong> 8B4513</td>
+                    <td><strong>HEX</strong> A0522D</td>
+                    <td><strong>HEX</strong> A52A2A</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 210,105,30</td>
+                    <td><strong>RGB</strong> 139,69,19</td>
+                    <td><strong>RGB</strong> 160,82,45</td>
+                    <td><strong>RGB</strong> 165,42,42</td>
+                </tr>
+
+                <tr>
+                    <td class="color114">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Maroon</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> 800000</td>
+                </tr>
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 128,0,0</td>
+                </tr>
+            </tbody>
+        </table>
+                        <!--BROWNS END-->
+
+                     <!--WHITES START-->
+    <table>
+        <thead>
+            <a id="whites-link"><h2>WHITES</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color115">&nbsp;</td>
+                    <td class="color116">&nbsp;</td>
+                    <td class="color117">&nbsp;</td>
+                    <td class="color118">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>White</td>
+                    <td>Snow</td>
+                    <td>Honeydew</td>
+                    <td>MintCream</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> FFFFFF</td>
+                    <td><strong>HEX</strong> FFFAFA</td>
+                    <td><strong>HEX</strong> F0FFF0</td>
+                    <td><strong>HEX</strong> F5FFFA</td>
+                </tr>
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 255,255,255</td>
+                    <td><strong>RGB</strong> 255,250,250</td>
+                    <td><strong>RGB</strong> 240,255,240</td>
+                    <td><strong>RGB</strong> 245,255,250</td>
+                </tr>
+                
+                <tr>
+                    <td class="color119">&nbsp;</td>
+                    <td class="color120">&nbsp;</td>
+                    <td class="color121">&nbsp;</td>
+                    <td class="color122">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Azure</td>
+                    <td>AliceBlue</td>
+                    <td>GhostWhite</td>
+                    <td>WhiteSmoke</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> F0FFFF</td>
+                    <td><strong>HEX</strong> F0F8FF</td>
+                    <td><strong>HEX</strong> F8F8FF</td>
+                    <td><strong>HEX</strong> F5F5F5</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 240,255,255</td>
+                    <td><strong>RGB</strong> 240,248,255</td>
+                    <td><strong>RGB</strong> 248,248,255</td>
+                    <td><strong>RGB</strong> 245,245,245</td>
+                </tr>
+
+                <tr>
+                    <td class="color123">&nbsp;</td>
+                    <td class="color124">&nbsp;</td>
+                    <td class="color125">&nbsp;</td>
+                    <td class="color126">&nbsp;</td>
+                </tr>
+
+                <tr>
+                    <td>Seashell</td>
+                    <td>Beige</td>
+                    <td>OldLace</td>
+                    <td>FloralWhite</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> FFF5EE</td>
+                    <td><strong>HEX</strong> F5F5DC</td>
+                    <td><strong>HEX</strong> FDF5E6</td>
+                    <td><strong>HEX</strong> FFFAF0</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 255,245,238</td>
+                    <td><strong>RGB</strong> 245,245,220</td>
+                    <td><strong>RGB</strong> 253,245,230</td>
+                    <td><strong>RGB</strong> 255,250,240</td>
+                </tr>
+
+                <tr>
+                    <td class="color127">&nbsp;</td>
+                    <td class="color128">&nbsp;</td>
+                    <td class="color129">&nbsp;</td>
+                    <td class="color130">&nbsp;</td>
+                </tr>
+
+                <tr>
+                    <td>Ivory</td>
+                    <td>AntiqueWhite</td>
+                    <td>Linen</td>
+                    <td>LavenderBlush</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> FFFFF0</td>
+                    <td><strong>HEX</strong> FAEBD7</td>
+                    <td><strong>HEX</strong> FAF0E6</td>
+                    <td><strong>HEX</strong> FFF0F5</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 255,255,240</td>
+                    <td><strong>RGB</strong> 250,235,215</td>
+                    <td><strong>RGB</strong> 250,240,230</td>
+                    <td><strong>RGB</strong> 255,240,245</td>                   
+                </tr>
+
+                <tr>
+                    <td class="color131">&nbsp;</td>
+                </tr>
+
+                <tr>
+                    <td>MistyRose</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> FFE4E1</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 255,228,225</td> 
+                </tr>
+
+            </tbody>
+        </table>
+                            <!--WHITES END-->
+
+
+                            <!--GREYS START-->
+    <table>
+        <thead>
+            <a id="greys-link"><h2>GREYS</h2></a>
+            <th colspan="4">&nbsp;</th>
+        </thead>
+            <tbody>
+                <tr>
+                    <td class="color132">&nbsp;</td>
+                    <td class="color133">&nbsp;</td>
+                    <td class="color134">&nbsp;</td>
+                    <td class="color135">&nbsp;</td>
+                </tr>
+
+                <tr class="COLORTEXT">
+                    <td>Gainsboro</td>
+                    <td>LightGray</td>
+                    <td>LightGrey</td>
+                    <td>Silver</td>
+                </tr>
+
+                <tr class="HEX">
+                    <td><strong>HEX</strong> DCDCDC</td>
+                    <td><strong>HEX</strong> D3D3D3</td>
+                    <td><strong>HEX</strong> D3D3D3</td>
+                    <td><strong>HEX</strong> C0C0C0</td>
+                </tr>
+
+
+                <tr class="DECIMAL">
+                    <td><strong>RGB</strong> 220,220,220</td>
+                    <td><strong>RGB</strong> 211,211,211</td>
+                    <td><strong>RGB</strong> 211,211,211</td>
+                    <td><strong>RGB</strong> 192,192,192</td>
+                </tr>
+
+                <tr>
+                    <td class="color136">&nbsp;</td>
+                    <td class="color137">&nbsp;</td>
+                    <td class="color138">&nbsp;</td>
+                    <td class="color139">&nbsp;</td>
+                </tr>
+
+                <tr>
+                    <td>DarkGray</td>
+                    <td>DarkGrey</td>
+                    <td>Gray</td>
+                    <td>Grey</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> A9A9A9</td>
+                    <td><strong>HEX</strong> A9A9A9</td>
+                    <td><strong>HEX</strong> 808080</td>
+                    <td><strong>HEX</strong> 808080</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 169,169,169</td>
+                    <td><strong>RGB</strong> 169,169,169</td>
+                    <td><strong>RGB</strong> 128,128,128</td>
+                    <td><strong>RGB</strong> 128,128,128</td>
+                </tr>
+
+                <tr>
+                    <td class="color140">&nbsp;</td>
+                    <td class="color141">&nbsp;</td>
+                    <td class="color142">&nbsp;</td>
+                    <td class="color143">&nbsp;</td>
+                </tr>
+
+                <tr>
+                    <td>DimGray</td>
+                    <td>DimGrey</td>
+                    <td>LightSlateGray</td>
+                    <td>LightSlateGrey</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> 696969</td>
+                    <td><strong>HEX</strong> 696969</td>
+                    <td><strong>HEX</strong> 778899</td>
+                    <td><strong>HEX</strong> 778899</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 105,105,105</td>
+                    <td><strong>RGB</strong> 105,105,105</td>
+                    <td><strong>RGB</strong> 119,136,153</td>
+                    <td><strong>RGB</strong> 153,50,204</td>
+                </tr>
+
+                <tr>
+                    <td class="color144">&nbsp;</td>
+                    <td class="color145">&nbsp;</td>
+                    <td class="color146">&nbsp;</td>
+                    <td class="color147">&nbsp;</td>
+                </tr>
+
+                <tr>
+                    <td>SlateGray</td>
+                    <td>SlateGrey</td>
+                    <td>DarkSlateGray</td>
+                    <td>DarkSlateGrey</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> 708090</td>
+                    <td><strong>HEX</strong> 708090</td>
+                    <td><strong>HEX</strong> 2F4F4F</td>
+                    <td><strong>HEX</strong> 2F4F4F</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 112,128,144</td>
+                    <td><strong>RGB</strong> 112,128,144</td>
+                    <td><strong>RGB</strong> 47,79,79</td>
+                    <td><strong>RGB</strong> 47,79,79</td>
+                </tr>
+
+                <tr>
+                    <td class="color148">&nbsp;</td>
+                </tr>
+
+                <tr>
+                    <td>Black</td>
+                </tr>
+
+                <tr>
+                    <td><strong>HEX</strong> 000000</td>
+                </tr>
+
+                <tr>
+                    <td><strong>RGB</strong> 0,0,0</td>
+                </tr>
+            </tbody>
+        </table>
+    </main>
+                     <!--GREYS END-->
+    
+                    <!--MAIN END-->
+
+                  <!--FOOTER START-->
+    <footer>
+        <p>created by lunaria7</p>
+    </footer>
+                     <!--FOOTER END-->
+</body>
+</html>
